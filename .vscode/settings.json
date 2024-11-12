@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.move": "rust",
+        "atomic": "c",
+        "semaphore": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
